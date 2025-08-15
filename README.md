@@ -1,4 +1,4 @@
-#DSA-MASTERY - From Foundations To Interview-Ready
+# DSA-MASTERY - From Foundations To Interview-Ready
 
 This is my 12 week, hands-on roadmap to master Data Structures & Algorithms (DSA).
 We start by **implementing core data structures in C** (week 1-4), switch to **High level coding language for fast problem-solving** (week 5-10), and finish with **advanced topics** (week 11-12). Everything is project based with daily drills and short write-ups.
